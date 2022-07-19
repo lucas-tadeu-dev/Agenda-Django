@@ -6,7 +6,7 @@ Criei esse site com 4 apps. O primeiro e padrão exibe os contatos salvos:
 ![image](https://user-images.githubusercontent.com/104043012/178623136-fae17e5d-b6b1-47c9-a084-0bc4ef626f3e.png)
 
 No segundo App da agenda fiz a parte de cadastro, aonde adicionei no código regras, que só aceitam emails válidos, usuários
-com mais de 6 caracteres. E fiz o sistema de validação que não deixa criar usuários iguais nen senhas fracas:
+com mais de 6 caracteres. E fiz o sistema de validação que não deixa criar usuários iguais, como senhas fracas:
 
 ![image](https://user-images.githubusercontent.com/104043012/178623342-7e632124-459b-4f02-be89-76e6c2817284.png)
 
